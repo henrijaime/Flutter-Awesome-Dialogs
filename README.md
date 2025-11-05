@@ -17,15 +17,24 @@ This project serves as a **comprehensive resource** for developers exploring adv
 ---
 
 ## 🎬 Preview
+  
+*Beautiful dialogs for better user experience*
 
-<div align="center">
-  
-  
-  *Beautiful dialogs for better user experience*
-  <video src="https://github.com/user-attachments/assets/your-video-id" controls width="100%" ></video>
+<div align="left">
+  <table>
+    <tr>
+      <td><video src="https://github.com/user-attachments/assets/36facb52-f282-4c8c-82b6-e791923c02d2" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/5096d695-7ffe-4c77-9103-f9a38524bcb9" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/1cdb2d69-2a05-4d1b-9f6a-645982a944c2" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/70b6cbc0-5820-43ac-a3a5-77df8cabfc32" controls width="49%"></video></td>
+    </tr>
+  </table>
+</div>
+
+
+
 
     
-</div>
 
 
 
@@ -61,7 +70,6 @@ This project serves as a **comprehensive resource** for developers exploring adv
       <td><img src="screenshots/image.jpg" alt="Dialog Example 3" width="250"/></td>
       <td><img src="screenshots/image4.jpg" alt="Dialog Example 4" width="250"/></td>
       <td><img src="screenshots/imagefive.jpg" alt="Dialog Example 4" width="250"/></td>
-
     </tr>
   </table>
 </div>
